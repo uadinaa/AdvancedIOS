@@ -1,0 +1,409 @@
+[
+  {
+    "id": 1,
+    "name": "Aizawa Shōta",
+    "slug": "1-aizawa-shota",
+    "appearance": {
+      "gender": "Male",
+      "race": "Human",
+      "eyeColor": "Black",
+      "hairColor": "Black"
+    },
+    "biography": {
+      "fullName": "Shōta Aizawa",
+      "aliases": ["Eraser Head"],
+      "placeOfBirth": "Japan",
+      "firstAppearance": "My Hero Academia, Chapter 3",
+      "publisher": "Shueisha"
+    },
+    "work": {
+      "occupation": "Pro Hero, U.A. High School Teacher",
+      "base": "U.A. High School"
+    },
+    "connections": {
+      "groupAffiliation": "U.A. Faculty, Pro Heroes",
+      "relatives": "Oboro Shirakumo (deceased friend)"
+    },
+    "images": {
+      "lg": "https://fanfics.me/images/fandoms_heroes/876-1512804669.jpg"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Asui Tsuyu",
+    "slug": "2-asui-tsuyu",
+    "appearance": {
+      "gender": "Female",
+      "race": "Human",
+      "eyeColor": "Black",
+      "hairColor": "Green"
+    },
+    "biography": {
+      "fullName": "Tsuyu Asui",
+      "aliases": ["Froppy"],
+      "placeOfBirth": "Japan",
+      "firstAppearance": "My Hero Academia, Chapter 10",
+      "publisher": "Shueisha"
+    },
+    "work": {
+      "occupation": "Student, Pro Hero Intern",
+      "base": "U.A. High School"
+    },
+    "connections": {
+      "groupAffiliation": "Class 1-A, Pro Hero Intern",
+      "relatives": "Ganma Asui (father), Beru Asui (mother), Samidare Asui (brother), Satsuki Asui (sister)"
+    },
+    "images": {
+      "lg": "https://fanfics.me/images/fandoms_heroes/876-1512804667.jpg"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Bakugō Katsuki",
+    "slug": "3-bakugo-katsuki",
+    "appearance": {
+      "gender": "Male",
+      "race": "Human",
+      "eyeColor": "Red",
+      "hairColor": "Ash Blonde"
+    },
+    "biography": {
+      "fullName": "Katsuki Bakugō",
+      "aliases": ["Great Explosion Murder God Dynamight"],
+      "placeOfBirth": "Japan",
+      "firstAppearance": "My Hero Academia, Chapter 1",
+      "publisher": "Shueisha"
+    },
+    "work": {
+      "occupation": "Student, Pro Hero Intern",
+      "base": "U.A. High School"
+    },
+    "connections": {
+      "groupAffiliation": "Class 1-A, Pro Hero Intern",
+      "relatives": "Masaru Bakugō (father), Mitsuki Bakugō (mother)"
+    },
+    "images": {
+      "lg": "https://fanfics.me/images/fandoms_heroes/876-1512804647.jpg"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Kaminari Denki",
+    "slug": "4-kaminari-denki",
+    "appearance": {
+      "gender": "Male",
+      "race": "Human",
+      "eyeColor": "Yellow",
+      "hairColor": "Blonde"
+    },
+    "biography": {
+      "fullName": "Denki Kaminari",
+      "aliases": ["Chargebolt"],
+      "placeOfBirth": "Japan",
+      "firstAppearance": "My Hero Academia, Chapter 3",
+      "publisher": "Shueisha"
+    },
+    "work": {
+      "occupation": "Student, Pro Hero Intern",
+      "base": "U.A. High School"
+    },
+    "connections": {
+      "groupAffiliation": "Class 1-A, Pro Hero Intern",
+      "relatives": "Unknown"
+    },
+    "images": {
+      "lg": "https://fanfics.me/images/fandoms_heroes/876-1512804650.jpg"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Kayama Nemuri",
+    "slug": "5-kayama-nemuri",
+    "appearance": {
+      "gender": "Female",
+      "race": "Human",
+      "eyeColor": "Blue",
+      "hairColor": "Purple"
+    },
+    "biography": {
+      "fullName": "Nemuri Kayama",
+      "aliases": ["Midnight"],
+      "placeOfBirth": "Japan",
+      "firstAppearance": "My Hero Academia, Chapter 24",
+      "publisher": "Shueisha"
+    },
+    "work": {
+      "occupation": "Pro Hero, U.A. High School Teacher",
+      "base": "U.A. High School"
+    },
+    "connections": {
+      "groupAffiliation": "U.A. Faculty, Pro Heroes",
+      "relatives": "Unknown"
+    },
+    "images": {
+      "lg": "https://fanfics.me/images/fandoms_heroes/876-1512849984.jpg"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Midoriya Izuku",
+    "slug": "6-midoriya-izuku",
+    "appearance": {
+      "gender": "Male",
+      "race": "Human",
+      "eyeColor": "Green",
+      "hairColor": "Dark Green"
+    },
+    "biography": {
+      "fullName": "Izuku Midoriya",
+      "aliases": ["Deku"],
+      "placeOfBirth": "Japan",
+      "firstAppearance": "My Hero Academia, Chapter 1",
+      "publisher": "Shueisha"
+    },
+    "work": {
+      "occupation": "Student, Pro Hero Intern",
+      "base": "U.A. High School"
+    },
+    "connections": {
+      "groupAffiliation": "Class 1-A, Pro Hero Intern",
+      "relatives": "Inko Midoriya (mother), Hisashi Midoriya (father, unknown)"
+    },
+    "images": {
+      "lg": "https://fanfics.me/images/fandoms_heroes/876-1512804646.jpg"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Shouto Todoroki",
+    "slug": "7-shouto-todoroki",
+    "appearance": {
+      "gender": "Male",
+      "race": "Human",
+      "eyeColor": "Heterochromatic (Gray & Turquoise)",
+      "hairColor": "White & Red"
+    },
+    "biography": {
+      "fullName": "Shouto Todoroki",
+      "aliases": ["Shouto"],
+      "placeOfBirth": "Japan",
+      "firstAppearance": "My Hero Academia, Chapter 1",
+      "publisher": "Shueisha"
+    },
+    "work": {
+      "occupation": "Student, Pro Hero Intern",
+      "base": "U.A. High School"
+    },
+    "connections": {
+      "groupAffiliation": "Class 1-A, Pro Hero Intern",
+      "relatives": "Endeavor (father), Rei Todoroki (mother), Fuyumi Todoroki (sister), Natsuo Todoroki (brother), Toya Todoroki (Dabi, brother)"
+    },
+    "images": {
+      "lg": "https://fanfics.me/images/fandoms_heroes/876-1512804660.jpg"
+    }
+  },
+  {
+      "id": 8,
+      "name": "Yaoyorozu Momo",
+      "slug": "8-yaoyorozu-momo",
+      "appearance": {
+        "gender": "Female",
+        "race": "Human",
+        "eyeColor": "Black",
+        "hairColor": "Black"
+      },
+      "biography": {
+        "fullName": "Momo Yaoyorozu",
+        "aliases": ["Creati"],
+        "placeOfBirth": "Japan",
+        "firstAppearance": "My Hero Academia, Chapter 3",
+        "publisher": "Shueisha"
+      },
+      "work": {
+        "occupation": "Student, Pro Hero Intern",
+        "base": "U.A. High School"
+      },
+      "connections": {
+        "groupAffiliation": "Class 1-A, Pro Hero Intern",
+        "relatives": "Unknown"
+      },
+      "images": {
+        "lg": "https://i.pinimg.com/736x/a9/7d/c1/a97dc19a2a78008a3f872b8412cea6b8.jpg"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Īda Tensei",
+      "slug": "9-iida-tensei",
+      "appearance": {
+        "gender": "Male",
+        "race": "Human",
+        "eyeColor": "Blue",
+        "hairColor": "Dark Blue"
+      },
+      "biography": {
+        "fullName": "Tensei Īda",
+        "aliases": ["Ingenium"],
+        "placeOfBirth": "Japan",
+        "firstAppearance": "My Hero Academia, Chapter 43",
+        "publisher": "Shueisha"
+      },
+      "work": {
+        "occupation": "Pro Hero",
+        "base": "Japan"
+      },
+      "connections": {
+        "groupAffiliation": "Pro Heroes",
+        "relatives": "Tenya Iida (brother)"
+      },
+      "images": {
+        "lg": "https://fanfics.me/images/fandoms_heroes/876-1512804659.jpg"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Jirō Kyōka",
+      "slug": "10-jiro-kyoka",
+      "appearance": {
+        "gender": "Female",
+        "race": "Human",
+        "eyeColor": "Purple",
+        "hairColor": "Purple"
+      },
+      "biography": {
+        "fullName": "Kyōka Jirō",
+        "aliases": ["Earphone Jack"],
+        "placeOfBirth": "Japan",
+        "firstAppearance": "My Hero Academia, Chapter 3",
+        "publisher": "Shueisha"
+      },
+      "work": {
+        "occupation": "Student, Pro Hero Intern",
+        "base": "U.A. High School"
+      },
+      "connections": {
+        "groupAffiliation": "Class 1-A, Pro Hero Intern",
+        "relatives": "Kyotoku Jirō (father), Mika Jirō (mother)"
+      },
+      "images": {
+        "lg": "https://fanfics.me/images/fandoms_heroes/876-1565179191.jpg"
+      }
+    },
+    {
+      "id": 11,
+      "name": "Hatsume Mei",
+      "slug": "11-hatsume-mei",
+      "appearance": {
+        "gender": "Female",
+        "race": "Human",
+        "eyeColor": "Gold",
+        "hairColor": "Pink"
+      },
+      "biography": {
+        "fullName": "Mei Hatsume",
+        "aliases": ["None"],
+        "placeOfBirth": "Japan",
+        "firstAppearance": "My Hero Academia, Chapter 34",
+        "publisher": "Shueisha"
+      },
+      "work": {
+        "occupation": "Support Course Student",
+        "base": "U.A. High School"
+      },
+      "connections": {
+        "groupAffiliation": "U.A. Support Course",
+        "relatives": "Unknown"
+      },
+      "images": {
+        "lg": "https://fanfics.me/images/fandoms_heroes/876-1588950537.jpg"
+      }
+    },
+    {
+      "id": 12,
+      "name": "Todoroki Enji",
+      "slug": "12-todoroki-enji",
+      "appearance": {
+        "gender": "Male",
+        "race": "Human",
+        "eyeColor": "Turquoise",
+        "hairColor": "Red & White"
+      },
+      "biography": {
+        "fullName": "Enji Todoroki",
+        "aliases": ["Endeavor"],
+        "placeOfBirth": "Japan",
+        "firstAppearance": "My Hero Academia, Chapter 1",
+        "publisher": "Shueisha"
+      },
+      "work": {
+        "occupation": "Pro Hero",
+        "base": "Japan"
+      },
+      "connections": {
+        "groupAffiliation": "Pro Heroes",
+        "relatives": "Rei Todoroki (wife), Toya Todoroki (Dabi, son), Fuyumi Todoroki (daughter), Natsuo Todoroki (son), Shoto Todoroki (son)"
+      },
+      "images": {
+        "lg": "https://fanfics.me/images/fandoms_heroes/876-1512804658.jpg"
+      }
+    },
+    {
+      "id": 13,
+      "name": "Shūzenji Chiyo",
+      "slug": "13-shuzenji-chiyo",
+      "appearance": {
+        "gender": "Female",
+        "race": "Human",
+        "eyeColor": "Black",
+        "hairColor": "Gray"
+      },
+      "biography": {
+        "fullName": "Chiyo Shūzenji",
+        "aliases": ["Recovery Girl"],
+        "placeOfBirth": "Japan",
+        "firstAppearance": "My Hero Academia, Chapter 3",
+        "publisher": "Shueisha"
+      },
+      "work": {
+        "occupation": "School Nurse",
+        "base": "U.A. High School"
+      },
+      "connections": {
+        "groupAffiliation": "U.A. Faculty",
+        "relatives": "Unknown"
+      },
+      "images": {
+        "lg": "https://fanfics.me/images/fandoms_heroes/876-1512846913.jpg"
+      }
+    },
+    {
+      "id": 14,
+      "name": "Uraraka Ochako",
+      "slug": "14-uraraka-ochako",
+      "appearance": {
+        "gender": "Female",
+        "race": "Human",
+        "eyeColor": "Brown",
+        "hairColor": "Brown"
+      },
+      "biography": {
+        "fullName": "Ochako Uraraka",
+        "aliases": ["Uravity"],
+        "placeOfBirth": "Japan",
+        "firstAppearance": "My Hero Academia, Chapter 3",
+        "publisher": "Shueisha"
+      },
+      "work": {
+        "occupation": "Student, Pro Hero Intern",
+        "base": "U.A. High School"
+      },
+      "connections": {
+        "groupAffiliation": "Class 1-A, Pro Hero Intern",
+        "relatives": "Unnamed Parents"
+      },
+      "images": {
+        "lg": "https://fanfics.me/images/fandoms_heroes/876-1512804651.jpg"
+      }
+    }
+]
+
