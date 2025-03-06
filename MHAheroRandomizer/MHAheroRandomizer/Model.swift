@@ -6,11 +6,10 @@
 //
 import Foundation
 
-
 struct Hero: Codable {
     let id: Int
     let name: String
-    let powerstats: PowerStats
+    let slug: String
     let appearance: Appearance
     let biography: Biography
     let work: Work
@@ -18,32 +17,32 @@ struct Hero: Codable {
     let images: Images
 }
 
-struct PowerStats: Codable {
-    let intelligence, strength, speed, durability, power, combat: Int
-}
-
 struct Appearance: Codable {
     let gender: String
     let race: String?
-    let height: [String]
-    let weight: [String]
     let eyeColor: String
     let hairColor: String
 }
 
 struct Biography: Codable {
-    let fullName, alterEgos, placeOfBirth, firstAppearance, publisher, alignment: String?
+    let fullName: String?
+    let aliases: [String]
+    let placeOfBirth: String?
+    let firstAppearance: String?
+    let publisher: String?
 }
 
 struct Work: Codable {
-    let occupation, base: String?
+    let occupation: String?
+    let base: String?
 }
 
 struct Connections: Codable {
-    let groupAffiliation, relatives: String?
+    let groupAffiliation: String?
+    let relatives: String?
 }
 
 struct Images: Codable {
-    let lg: String  // Большая картинка героя
+    let lg: String 
 }
 
