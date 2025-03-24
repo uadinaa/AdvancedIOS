@@ -404,5 +404,179 @@
       "images": {
         "lg": "https://i.pinimg.com/736x/85/9f/95/859f9573b21b3c55b9b04522587121d5.jpg"
       }
+    },
+    {
+      "id": 15,
+      "name": "Nejire Hadou",
+      "slug": "15-nejire-hadou",
+      "appearance": {
+        "gender": "Female",
+        "race": "Human",
+        "eyeColor": "Blue",
+        "hairColor": "Blue"
+      },
+      "biography": {
+        "fullName": "Nejire Hadou",
+        "aliases": ["Nejire-Chan"],
+        "placeOfBirth": "Japan",
+        "firstAppearance": "My Hero Academia, Chapter 122",
+        "publisher": "Shueisha"
+      },
+      "work": {
+        "occupation": "Student, Pro Hero Intern",
+        "base": "U.A. High School"
+      },
+      "connections": {
+        "groupAffiliation": "The Big 3, U.A. High School",
+        "relatives": "Unknown"
+      },
+      "images": {
+        "lg": "https://i.pinimg.com/736x/3c/8d/95/3c8d95d9d0759409ce772bf5ee396498.jpg"
+      }
+    },
+    {
+      "id": 16,
+      "name": "Tamaki Amajiki",
+      "slug": "16-tamaki-amajiki",
+      "appearance": {
+        "gender": "Male",
+        "race": "Human",
+        "eyeColor": "Dark Blue",
+        "hairColor": "Dark Blue"
+      },
+      "biography": {
+        "fullName": "Tamaki Amajiki",
+        "aliases": ["Suneater"],
+        "placeOfBirth": "Japan",
+        "firstAppearance": "My Hero Academia, Chapter 122",
+        "publisher": "Shueisha"
+      },
+      "work": {
+        "occupation": "Student, Pro Hero Intern",
+        "base": "U.A. High School"
+      },
+      "connections": {
+        "groupAffiliation": "The Big 3, U.A. High School",
+        "relatives": "Unknown"
+      },
+      "images": {
+        "lg": "https://i.pinimg.com/736x/6f/d7/cc/6fd7ccad93584744fbb34100572a48f3.jpg"
+      }
+    },
+    {
+      "id": 17,
+      "name": "Nana Shimura",
+      "slug": "17-nana-shimura",
+      "appearance": {
+        "gender": "Female",
+        "race": "Human",
+        "eyeColor": "Dark Blue",
+        "hairColor": "Black"
+      },
+      "biography": {
+        "fullName": "Nana Shimura",
+        "aliases": [],
+        "placeOfBirth": "Japan",
+        "firstAppearance": "My Hero Academia, Chapter 92",
+        "publisher": "Shueisha"
+      },
+      "work": {
+        "occupation": "Pro Hero",
+        "base": "Japan"
+      },
+      "connections": {
+        "groupAffiliation": "One For All Successors",
+        "relatives": "Kotaro Shimura (son), Tenko Shimura (Shigaraki, grandson)"
+      },
+      "images": {
+        "lg": "https://i.pinimg.com/736x/c6/6b/13/c66b134ec95ce8da87c6f510a8e2a198.jpg"
+      }
+    },
+    {
+      "id": 18,
+      "name": "Hitoshi Shinsou",
+      "slug": "18-hitoshi-shinsou",
+      "appearance": {
+        "gender": "Male",
+        "race": "Human",
+        "eyeColor": "Purple",
+        "hairColor": "Purple"
+      },
+      "biography": {
+        "fullName": "Hitoshi Shinsou",
+        "aliases": [],
+        "placeOfBirth": "Japan",
+        "firstAppearance": "My Hero Academia, Chapter 34",
+        "publisher": "Shueisha"
+      },
+      "work": {
+        "occupation": "Student",
+        "base": "U.A. High School"
+      },
+      "connections": {
+        "groupAffiliation": "Class 1-C, U.A. High School",
+        "relatives": "Unknown"
+      },
+      "images": {
+        "lg": "https://i.pinimg.com/736x/81/62/52/8162523e9fbf6b0462fe4c95b411c9bd.jpg"
+      }
+    },
+    {
+      "id": 19,
+      "name": "Itsuka Kendo",
+      "slug": "19-itsuka-kendo",
+      "appearance": {
+        "gender": "Female",
+        "race": "Human",
+        "eyeColor": "Blue",
+        "hairColor": "Orange"
+      },
+      "biography": {
+        "fullName": "Itsuka Kendo",
+        "aliases": ["Battle Fist"],
+        "placeOfBirth": "Japan",
+        "firstAppearance": "My Hero Academia, Chapter 45",
+        "publisher": "Shueisha"
+      },
+      "work": {
+        "occupation": "Student, Pro Hero Intern",
+        "base": "U.A. High School"
+      },
+      "connections": {
+        "groupAffiliation": "Class 1-B, U.A. High School",
+        "relatives": "Unknown"
+      },
+      "images": {
+        "lg": "https://i.pinimg.com/736x/de/49/5f/de495f11516d83cbf444f4f42056c8e9.jpg"
+      }
+    },
+    {
+      "id": 20,
+      "name": "Melissa Shield",
+      "slug": "20-melissa-shield",
+      "appearance": {
+        "gender": "Female",
+        "race": "Human",
+        "eyeColor": "Blue",
+        "hairColor": "Blonde"
+      },
+      "biography": {
+        "fullName": "Melissa Shield",
+        "aliases": [],
+        "placeOfBirth": "I-Island",
+        "firstAppearance": "My Hero Academia: Two Heroes",
+        "publisher": "Shueisha"
+      },
+      "work": {
+        "occupation": "Scientist, Support Gear Developer",
+        "base": "I-Island"
+      },
+      "connections": {
+        "groupAffiliation": "Support Gear Developers",
+        "relatives": "David Shield (father)"
+      },
+      "images": {
+        "lg": "https://i.pinimg.com/736x/d6/93/7a/d6937aa92fa11a90eef4794c69cf884f.jpg"
+      }
     }
 ]
