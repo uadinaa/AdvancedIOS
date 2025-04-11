@@ -58,5 +58,4 @@ View: Contains the SwiftUI views that present the data to the user.
 
 
 ## Demo video 
-[my clip aahhaha]([https://openweathermap.org/api](https://drive.google.com/file/d/1IfSC-mr8fB1w5z_hSxVwiYXHIFIjqxQ9/view?usp=share_link
-)
+[my clip aahhaha]([https://drive.google.com/file/d/1IfSC-mr8fB1w5z_hSxVwiYXHIFIjqxQ9/view?usp=share_link])
