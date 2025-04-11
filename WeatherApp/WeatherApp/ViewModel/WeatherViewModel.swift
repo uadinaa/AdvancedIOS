@@ -14,8 +14,8 @@ class WeatherViewModel: ObservableObject {
 
     @Published var weatherAlerts: [WeatherAlert] = []
 
-    let apiKey = "f80b68e19449d82e57f76db8c28315e0"
-    let city = "Almaty"
+    let apiKey = "here you are gonna put your api"
+    let city = "ur city"
 
     enum LoadingState {
         case idle, loading, success, failed
